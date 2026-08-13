@@ -1,0 +1,203 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CheckMake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-05T08:34:25Z",
+            "owner": "checkmake",
+            "repo": "checkmake",
+            "stars": 1211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bake",
+          "description": "Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-22T07:38:51Z",
+            "owner": "EbodShojaei",
+            "repo": "bake",
+            "stars": 757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tree Sitter Support",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-31T14:44:11Z",
+            "owner": "alemuller",
+            "repo": "tree-sitter-make",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Lint and Highlight"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Just",
+          "description": "(Rust) HN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:47:50Z",
+            "owner": "casey",
+            "repo": "just",
+            "stars": 35277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Task",
+          "description": "(Go)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:34:14Z",
+            "owner": "go-task",
+            "repo": "task",
+            "stars": 15958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ninja",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-25T20:55:58Z",
+            "owner": "ninja-build",
+            "repo": "ninja",
+            "stars": 13139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mage",
+          "description": "(Go)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-23T01:14:40Z",
+            "owner": "magefile",
+            "repo": "mage",
+            "stars": 4686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fake",
+          "description": "(F#)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2026-07-13T13:29:22Z",
+            "owner": "fsprojects",
+            "repo": "FAKE",
+            "stars": 1328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dotnet-run-script",
+          "description": "(.NET - F#/C#)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:16:34Z",
+            "owner": "xt0rted",
+            "repo": "dotnet-run-script",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shmux",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-20T20:43:00Z",
+            "owner": "shmux",
+            "repo": "shmux",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shikaan/shmux",
+          "description": "HN",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-01T10:11:51Z",
+            "owner": "shikaan",
+            "repo": "shmux",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FsMake",
+          "description": "(F#)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "F#",
+            "last_commit": "2022-07-06T07:27:08Z",
+            "owner": "seanamos",
+            "repo": "FsMake",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alternatives list on Github",
+          "description": null,
+          "children": []
+        }
+      ],
+      "title": "Alternatives"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tools"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:03:46.649Z",
+    "original_repository": "adelarsq/awesome-make",
+    "original_repository_sha": "26915237c82b452766d78a8e8ff27eaa61437fbc",
+    "enhanced_repository": "enhansome/enhansome-make",
+    "enhanced_repository_description": null,
+    "title": "Awesome Make 🛠 with stars"
+  }
+}
