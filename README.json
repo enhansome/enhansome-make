@@ -28,7 +28,7 @@
             "last_commit": "2026-07-22T07:38:51Z",
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 757
+            "stars": 758
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-12T23:47:50Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35277
+            "stars": 35296
           }
         },
         {
@@ -73,10 +73,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T00:34:14Z",
+            "last_commit": "2026-08-14T00:31:42Z",
             "owner": "go-task",
             "repo": "task",
-            "stars": 15958
+            "stars": 15966
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13139
+            "stars": 13143
           }
         },
         {
@@ -193,7 +193,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T08:03:46.649Z",
+    "last_updated": "2026-08-14T08:00:01.645Z",
     "original_repository": "adelarsq/awesome-make",
     "original_repository_sha": "26915237c82b452766d78a8e8ff27eaa61437fbc",
     "enhanced_repository": "enhansome/enhansome-make",
