@@ -24,8 +24,8 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 35,355 | 🐛 170 | 🌐 Rust | 📅 2026-08-12 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 15,994 | 🐛 189 | 🌐 Go | 📅 2026-08-19 (Go)
+* [Just](https://github.com/casey/just) ⭐ 35,363 | 🐛 170 | 🌐 Rust | 📅 2026-08-12 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 15,996 | 🐛 192 | 🌐 Go | 📅 2026-08-19 (Go)
 * [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,154 | 🐛 416 | 🌐 C++ | 📅 2026-07-25
 * [Mage](https://github.com/magefile/mage) ⭐ 4,690 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
 * [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,323 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
