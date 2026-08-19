@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66408063,
             "language": "Go",
             "last_commit": "2026-08-17T11:05:33Z",
             "owner": "checkmake",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965576317,
             "language": "Python",
             "last_commit": "2026-07-22T07:38:51Z",
             "owner": "EbodShojaei",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 358705893,
             "language": "C",
             "last_commit": "2024-01-31T14:44:11Z",
             "owner": "alemuller",
@@ -49,7 +52,7 @@
       "title": "Lint and Highlight"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -58,11 +61,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61349723,
             "language": "Rust",
             "last_commit": "2026-08-12T23:47:50Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35334
+            "stars": 35355
           }
         },
         {
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83252983,
             "language": "Go",
-            "last_commit": "2026-08-18T02:06:59Z",
+            "last_commit": "2026-08-19T01:10:55Z",
             "owner": "go-task",
             "repo": "task",
-            "stars": 15988
+            "stars": 15994
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1335132,
             "language": "C++",
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13151
+            "stars": 13154
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104261253,
             "language": "Go",
             "last_commit": "2026-04-23T01:14:40Z",
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4689
+            "stars": 4690
           }
         },
         {
@@ -114,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 507569,
             "language": "F#",
             "last_commit": "2026-07-13T13:29:22Z",
             "owner": "fsprojects",
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 469034236,
             "language": "C#",
             "last_commit": "2026-08-12T12:16:34Z",
             "owner": "xt0rted",
@@ -142,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75480039,
             "language": "C",
             "last_commit": "2026-02-20T20:43:00Z",
             "owner": "shmux",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 581603064,
             "language": "Go",
             "last_commit": "2024-12-01T10:11:51Z",
             "owner": "shikaan",
@@ -170,30 +181,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 375874088,
             "language": "F#",
             "last_commit": "2022-07-06T07:27:08Z",
             "owner": "seanamos",
             "repo": "FsMake",
             "stars": 23
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Alternatives list on Github",
-          "description": null,
-          "children": []
         }
       ],
       "title": "Alternatives"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:23:04.762Z",
+    "last_updated": "2026-08-19T07:23:50.401Z",
     "original_repository": "adelarsq/awesome-make",
     "original_repository_sha": "26915237c82b452766d78a8e8ff27eaa61437fbc",
     "enhanced_repository": "enhansome/enhansome-make",
