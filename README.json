@@ -66,7 +66,7 @@
             "last_commit": "2026-08-12T23:47:50Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35363
+            "stars": 35379
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 83252983,
             "language": "Go",
-            "last_commit": "2026-08-19T11:08:11Z",
+            "last_commit": "2026-08-20T00:59:00Z",
             "owner": "go-task",
             "repo": "task",
-            "stars": 15996
+            "stars": 16002
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13154
+            "stars": 13159
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-07-13T13:29:22Z",
             "owner": "fsprojects",
             "repo": "FAKE",
-            "stars": 1323
+            "stars": 1324
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:37:55.445Z",
+    "last_updated": "2026-08-20T07:26:14.345Z",
     "original_repository": "adelarsq/awesome-make",
     "original_repository_id": 225511646,
     "original_repository_sha": "26915237c82b452766d78a8e8ff27eaa61437fbc",
