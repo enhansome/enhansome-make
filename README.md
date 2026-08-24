@@ -14,7 +14,7 @@
 
 ## Lint and Highlight
 
-* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,212 | 🐛 39 | 🌐 Go | 📅 2026-08-17
+* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,212 | 🐛 40 | 🌐 Go | 📅 2026-08-24
 * [Bake](https://github.com/EbodShojaei/bake) ⭐ 759 | 🐛 7 | 🌐 Python | 📅 2026-07-22 - Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices
 * [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make) ⭐ 52 | 🐛 21 | 🌐 C | 📅 2024-01-31
 
@@ -24,8 +24,8 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 35,440 | 🐛 170 | 🌐 Rust | 📅 2026-08-20 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,032 | 🐛 190 | 🌐 Go | 📅 2026-08-24 (Go)
+* [Just](https://github.com/casey/just) ⭐ 35,449 | 🐛 170 | 🌐 Rust | 📅 2026-08-20 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,033 | 🐛 192 | 🌐 Go | 📅 2026-08-24 (Go)
 * [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,160 | 🐛 417 | 🌐 C++ | 📅 2026-07-25
 * [Mage](https://github.com/magefile/mage) ⭐ 4,689 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
 * [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,323 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,726 | 🐛 460 | 🌐 Lua | 📅 2026-08-17 extension to run GNU Make targets in [Neovim](https://neovim.io)
+* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,727 | 🐛 460 | 🌐 Lua | 📅 2026-08-17 extension to run GNU Make targets in [Neovim](https://neovim.io)
 
 ## Bugs
 
