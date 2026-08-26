@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T11:06:16Z",
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1213
+            "stars": 1212
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-20T23:01:29Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35461
+            "stars": 35483
           }
         },
         {
@@ -78,10 +78,10 @@
             "archived": false,
             "id": 83252983,
             "language": "Go",
-            "last_commit": "2026-08-25T00:24:10Z",
+            "last_commit": "2026-08-26T00:21:55Z",
             "owner": "go-task",
             "repo": "task",
-            "stars": 16036
+            "stars": 16053
           }
         },
         {
@@ -96,7 +96,7 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13162
+            "stars": 13167
           }
         },
         {
@@ -194,7 +194,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:28:21.526Z",
+    "last_updated": "2026-08-26T07:29:35.757Z",
     "original_repository": "adelarsq/awesome-make",
     "original_repository_id": 225511646,
     "original_repository_sha": "26915237c82b452766d78a8e8ff27eaa61437fbc",
