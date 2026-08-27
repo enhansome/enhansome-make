@@ -14,7 +14,7 @@
 
 ## Lint and Highlight
 
-* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,212 | 🐛 40 | 🌐 Go | 📅 2026-08-24
+* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,213 | 🐛 40 | 🌐 Go | 📅 2026-08-24
 * [Bake](https://github.com/EbodShojaei/bake) ⭐ 759 | 🐛 7 | 🌐 Python | 📅 2026-07-22 - Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices
 * [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make) ⭐ 52 | 🐛 21 | 🌐 C | 📅 2024-01-31
 
@@ -24,7 +24,7 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 35,508 | 🐛 171 | 🌐 Rust | 📅 2026-08-20 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Just](https://github.com/casey/just) ⭐ 35,514 | 🐛 171 | 🌐 Rust | 📅 2026-08-20 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
 * [Task](https://github.com/go-task/task) ⭐ 16,059 | 🐛 195 | 🌐 Go | 📅 2026-08-27 (Go)
 * [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,171 | 🐛 418 | 🌐 C++ | 📅 2026-07-25
 * [Mage](https://github.com/magefile/mage) ⭐ 4,690 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
