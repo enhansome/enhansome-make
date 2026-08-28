@@ -16,7 +16,8 @@
             "owner": "checkmake",
             "repo": "checkmake",
             "stars": 1213
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "EbodShojaei",
             "repo": "bake",
             "stars": 759
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "alemuller",
             "repo": "tree-sitter-make",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         }
       ],
       "title": "Lint and Highlight"
@@ -66,8 +69,9 @@
             "last_commit": "2026-08-20T23:01:29Z",
             "owner": "casey",
             "repo": "just",
-            "stars": 35514
-          }
+            "stars": 35527
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -78,11 +82,12 @@
             "archived": false,
             "id": 83252983,
             "language": "Go",
-            "last_commit": "2026-08-27T06:56:02Z",
+            "last_commit": "2026-08-28T17:49:21Z",
             "owner": "go-task",
             "repo": "task",
-            "stars": 16059
-          }
+            "stars": 16065
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -96,8 +101,9 @@
             "last_commit": "2026-07-25T20:55:58Z",
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13171
-          }
+            "stars": 13173
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -111,8 +117,9 @@
             "last_commit": "2026-04-23T01:14:40Z",
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4690
-          }
+            "stars": 4691
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "fsprojects",
             "repo": "FAKE",
             "stars": 1323
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "xt0rted",
             "repo": "dotnet-run-script",
             "stars": 134
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "shmux",
             "repo": "shmux",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "shikaan",
             "repo": "shmux",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         },
         {
           "node_type": "item",
@@ -187,14 +198,15 @@
             "owner": "seanamos",
             "repo": "FsMake",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-28T18:59:23.699Z"
         }
       ],
       "title": "Alternatives"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T17:53:07.592Z",
+    "last_updated": "2026-08-28T18:59:23.699Z",
     "original_repository_info": {
       "archived": false,
       "id": 225511646,
