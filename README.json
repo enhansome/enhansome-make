@@ -10,12 +10,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linter/analyzer for Makefiles",
+            "homepage": null,
             "id": 66408063,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-08-24T11:06:16Z",
+            "open_issues": 40,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1213
+            "stars": 1213,
+            "topics": [
+              "hacktoberfest",
+              "lint",
+              "linter",
+              "make",
+              "makefile"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -26,12 +37,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mbake is a Makefile formatter and linter. It only took 50 years!",
+            "homepage": "https://pypi.org/project/mbake/",
             "id": 965576317,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-22T07:38:51Z",
+            "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 759
+            "stars": 759,
+            "topics": [
+              "fmt",
+              "formatter",
+              "formatting",
+              "make",
+              "makefile",
+              "pip",
+              "pypl",
+              "python",
+              "python3",
+              "vscode",
+              "vscode-extension"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -42,12 +70,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 358705893,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2024-01-31T14:44:11Z",
+            "open_issues": 21,
             "owner": "alemuller",
             "repo": "tree-sitter-make",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         }
@@ -64,12 +97,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤖 Just a command runner",
+            "homepage": "https://just.systems",
             "id": 61349723,
             "language": "Rust",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-20T23:01:29Z",
+            "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 35527
+            "stars": 35534,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -80,12 +118,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast, cross-platform build tool inspired by Make, designed for modern workflows.",
+            "homepage": "https://taskfile.dev",
             "id": 83252983,
             "language": "Go",
-            "last_commit": "2026-08-28T17:49:21Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T00:33:04Z",
+            "open_issues": 197,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16065
+            "stars": 16069,
+            "topics": [
+              "build-tool",
+              "devops",
+              "go",
+              "make",
+              "makefile",
+              "task",
+              "task-runner",
+              "taskfile"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -96,12 +148,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a small build system with a focus on speed",
+            "homepage": "https://ninja-build.org/",
             "id": 1335132,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-25T20:55:58Z",
+            "open_issues": 418,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13173
+            "stars": 13173,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -112,12 +169,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a Make/rake-like dev tool using Go",
+            "homepage": "https://magefile.org",
             "id": 104261253,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-23T01:14:40Z",
+            "open_issues": 128,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4691
+            "stars": 4691,
+            "topics": [
+              "buildscript",
+              "go",
+              "golang",
+              "mage",
+              "magefile",
+              "make"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -128,12 +197,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "FAKE - F# Make",
+            "homepage": "https://fake.build",
             "id": 507569,
             "language": "F#",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-13T13:29:22Z",
+            "open_issues": 58,
             "owner": "fsprojects",
             "repo": "FAKE",
-            "stars": 1323
+            "stars": 1323,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -144,12 +218,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A dotnet tool to run arbitrary commands from a project's \"scripts\" object",
+            "homepage": null,
             "id": 469034236,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-12T12:16:34Z",
+            "open_issues": 30,
             "owner": "xt0rted",
             "repo": "dotnet-run-script",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "build-automation",
+              "build-automation-tool",
+              "build-tool",
+              "dotnet",
+              "dotnet-tool",
+              "dotnet-tools",
+              "dotnetcore",
+              "hacktoberfest"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -160,12 +248,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "shell multiplexor",
+            "homepage": null,
             "id": 75480039,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-02-20T20:43:00Z",
+            "open_issues": 1,
             "owner": "shmux",
             "repo": "shmux",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -176,12 +269,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐚 Run multiple scripts from one file. In (almost) any language.",
+            "homepage": null,
             "id": 581603064,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-01T10:11:51Z",
+            "open_issues": 6,
             "owner": "shikaan",
             "repo": "shmux",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "bash",
+              "cli",
+              "go",
+              "language",
+              "makefile",
+              "productivity",
+              "scripts",
+              "shell",
+              "shell-script",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         },
@@ -192,12 +301,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pipeline runner for F#.",
+            "homepage": "https://seanamos.github.io/FsMake/",
             "id": 375874088,
             "language": "F#",
+            "license": "MIT",
             "last_commit": "2022-07-06T07:27:08Z",
+            "open_issues": 0,
             "owner": "seanamos",
             "repo": "FsMake",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "build",
+              "dotnet",
+              "fsharp",
+              "make",
+              "pipeline"
+            ]
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
         }
@@ -206,15 +326,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T18:59:23.699Z",
+    "last_updated": "2026-08-29T05:02:59.639Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list about Make resources 🛠",
+      "homepage": null,
       "id": 225511646,
       "language": null,
+      "license": null,
       "last_commit": "2025-06-20T13:57:48Z",
+      "open_issues": 2,
       "owner": "adelarsq",
       "repo": "awesome-make",
-      "stars": 73
+      "stars": 73,
+      "topics": [
+        "awesome-list",
+        "make",
+        "makefile",
+        "tooling"
+      ]
     },
     "original_repository_sha": "26915237c82b452766d78a8e8ff27eaa61437fbc",
     "enhanced_repository": "enhansome/enhansome-make",
