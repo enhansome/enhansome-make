@@ -123,8 +123,8 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-29T00:33:04Z",
-            "open_issues": 197,
+            "last_commit": "2026-08-29T09:15:59Z",
+            "open_issues": 195,
             "owner": "go-task",
             "repo": "task",
             "stars": 16069,
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:02:59.639Z",
+    "last_updated": "2026-08-29T12:49:13.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
