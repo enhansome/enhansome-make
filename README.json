@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 759,
+            "stars": 760,
             "topics": [
               "fmt",
               "formatter",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "CC0-1.0",
             "last_commit": "2026-08-20T23:01:29Z",
-            "open_issues": 172,
+            "open_issues": 173,
             "owner": "casey",
             "repo": "just",
-            "stars": 35560,
+            "stars": 35569,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-31T00:38:53Z",
-            "open_issues": 198,
+            "last_commit": "2026-09-01T01:35:54Z",
+            "open_issues": 195,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16076,
+            "stars": 16081,
             "topics": [
               "build-tool",
               "devops",
@@ -154,10 +154,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-07-25T20:55:58Z",
-            "open_issues": 418,
+            "open_issues": 419,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13181,
+            "stars": 13185,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:23:27.277Z",
+    "last_updated": "2026-09-01T11:59:09.457Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
