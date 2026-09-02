@@ -16,7 +16,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-08-24T11:06:16Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "checkmake",
             "repo": "checkmake",
             "stars": 1213,
@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-08-20T23:01:29Z",
-            "open_issues": 173,
+            "last_commit": "2026-09-01T20:47:57Z",
+            "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 35569,
+            "stars": 35584,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-01T01:35:54Z",
-            "open_issues": 195,
+            "last_commit": "2026-09-02T08:26:13Z",
+            "open_issues": 197,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16081,
+            "stars": 16083,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 419,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13185,
+            "stars": 13187,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 128,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4691,
+            "stars": 4690,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T11:59:09.457Z",
+    "last_updated": "2026-09-02T11:41:46.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
