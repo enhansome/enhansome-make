@@ -15,8 +15,8 @@
             "id": 66408063,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T11:06:41Z",
-            "open_issues": 41,
+            "last_commit": "2026-09-08T10:49:03Z",
+            "open_issues": 39,
             "owner": "checkmake",
             "repo": "checkmake",
             "stars": 1215,
@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "fmt",
               "formatter",
@@ -106,7 +106,7 @@
             "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 35673,
+            "stars": 35688,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-07T00:46:39Z",
-            "open_issues": 199,
+            "last_commit": "2026-09-08T04:16:48Z",
+            "open_issues": 190,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16105,
+            "stars": 16112,
             "topics": [
               "build-tool",
               "devops",
@@ -153,11 +153,11 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T12:09:07Z",
-            "open_issues": 409,
+            "last_commit": "2026-09-08T11:27:40Z",
+            "open_issues": 407,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13203,
+            "stars": 13206,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T12:59:26.405Z",
+    "last_updated": "2026-09-08T11:43:12.803Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
