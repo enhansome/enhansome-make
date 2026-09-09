@@ -15,8 +15,8 @@
             "id": 66408063,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T10:49:03Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-09T11:44:00Z",
+            "open_issues": 41,
             "owner": "checkmake",
             "repo": "checkmake",
             "stars": 1215,
@@ -79,7 +79,7 @@
             "open_issues": 21,
             "owner": "alemuller",
             "repo": "tree-sitter-make",
-            "stars": 52,
+            "stars": 51,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -106,7 +106,7 @@
             "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 35688,
+            "stars": 35698,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-08T04:16:48Z",
-            "open_issues": 190,
+            "last_commit": "2026-09-09T00:34:48Z",
+            "open_issues": 186,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16112,
+            "stars": 16113,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 407,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13206,
+            "stars": 13208,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 128,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4689,
+            "stars": 4688,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T11:43:12.803Z",
+    "last_updated": "2026-09-09T11:48:52.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",

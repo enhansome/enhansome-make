@@ -14,9 +14,9 @@
 
 ## Lint and Highlight
 
-* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,215 | 🐛 39 | 🌐 Go | 📅 2026-09-08
+* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,215 | 🐛 41 | 🌐 Go | 📅 2026-09-09
 * [Bake](https://github.com/EbodShojaei/bake) ⭐ 762 | 🐛 7 | 🌐 Python | 📅 2026-07-22 - Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices
-* [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make) ⭐ 52 | 🐛 21 | 🌐 C | 📅 2024-01-31
+* [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make) ⭐ 51 | 🐛 21 | 🌐 C | 📅 2024-01-31
 
 ## Templates
 
@@ -24,10 +24,10 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 35,688 | 🐛 171 | 🌐 Rust | 📅 2026-09-01 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,112 | 🐛 190 | 🌐 Go | 📅 2026-09-08 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,206 | 🐛 407 | 🌐 C++ | 📅 2026-09-08
-* [Mage](https://github.com/magefile/mage) ⭐ 4,689 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
+* [Just](https://github.com/casey/just) ⭐ 35,698 | 🐛 171 | 🌐 Rust | 📅 2026-09-01 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,113 | 🐛 186 | 🌐 Go | 📅 2026-09-09 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,208 | 🐛 407 | 🌐 C++ | 📅 2026-09-08
+* [Mage](https://github.com/magefile/mage) ⭐ 4,688 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
 * [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,324 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 30 | 🌐 C# | 📅 2026-08-12 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
