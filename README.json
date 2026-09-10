@@ -15,11 +15,11 @@
             "id": 66408063,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T11:44:00Z",
+            "last_commit": "2026-09-09T18:36:43Z",
             "open_issues": 41,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1215,
+            "stars": 1214,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "CC0-1.0",
             "last_commit": "2026-09-01T20:47:57Z",
-            "open_issues": 171,
+            "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 35698,
+            "stars": 35721,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-09T00:34:48Z",
-            "open_issues": 186,
+            "last_commit": "2026-09-10T09:53:18Z",
+            "open_issues": 187,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16113,
+            "stars": 16120,
             "topics": [
               "build-tool",
               "devops",
@@ -154,10 +154,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-08T11:27:40Z",
-            "open_issues": 407,
+            "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13208,
+            "stars": 13211,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -223,8 +223,8 @@
             "id": 469034236,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-12T12:16:34Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-09T12:12:30Z",
+            "open_issues": 31,
             "owner": "xt0rted",
             "repo": "dotnet-run-script",
             "stars": 134,
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T11:48:52.784Z",
+    "last_updated": "2026-09-10T11:47:06.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
