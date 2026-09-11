@@ -14,7 +14,7 @@
 
 ## Lint and Highlight
 
-* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,214 | 🐛 41 | 🌐 Go | 📅 2026-09-09
+* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,213 | 🐛 41 | 🌐 Go | 📅 2026-09-09
 * [Bake](https://github.com/EbodShojaei/bake) ⭐ 762 | 🐛 7 | 🌐 Python | 📅 2026-07-22 - Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices
 * [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make) ⭐ 51 | 🐛 21 | 🌐 C | 📅 2024-01-31
 
@@ -24,11 +24,11 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 35,721 | 🐛 172 | 🌐 Rust | 📅 2026-09-01 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,120 | 🐛 187 | 🌐 Go | 📅 2026-09-10 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,211 | 🐛 408 | 🌐 C++ | 📅 2026-09-08
-* [Mage](https://github.com/magefile/mage) ⭐ 4,688 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
-* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,324 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
+* [Just](https://github.com/casey/just) ⭐ 35,745 | 🐛 172 | 🌐 Rust | 📅 2026-09-01 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,124 | 🐛 187 | 🌐 Go | 📅 2026-09-11 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,216 | 🐛 408 | 🌐 C++ | 📅 2026-09-08
+* [Mage](https://github.com/magefile/mage) ⭐ 4,689 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
+* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,325 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 31 | 🌐 C# | 📅 2026-09-09 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
 * [shikaan/shmux](https://github.com/shikaan/shmux) ⭐ 52 | 🐛 6 | 🌐 Go | 📅 2024-12-01 [HN](https://news.ycombinator.com/item?id=34119355)
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
