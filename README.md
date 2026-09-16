@@ -14,7 +14,7 @@
 
 ## Lint and Highlight
 
-* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,213 | 🐛 43 | 🌐 Go | 📅 2026-09-14
+* [CheckMake](https://github.com/mrtazz/checkmake) ⭐ 1,214 | 🐛 43 | 🌐 Go | 📅 2026-09-14
 * [Bake](https://github.com/EbodShojaei/bake) ⭐ 763 | 🐛 7 | 🌐 Python | 📅 2026-07-22 - Python-based Makefile formatter and linter that enforces consistent formatting according to Makefile best practices
 * [Tree Sitter Support](https://github.com/alemuller/tree-sitter-make) ⭐ 51 | 🐛 21 | 🌐 C | 📅 2024-01-31
 
@@ -24,11 +24,11 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 35,801 | 🐛 171 | 🌐 Rust | 📅 2026-09-01 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,143 | 🐛 189 | 🌐 Go | 📅 2026-09-15 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,229 | 🐛 407 | 🌐 C++ | 📅 2026-09-14
+* [Just](https://github.com/casey/just) ⭐ 35,814 | 🐛 171 | 🌐 Rust | 📅 2026-09-01 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,151 | 🐛 188 | 🌐 Go | 📅 2026-09-16 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,233 | 🐛 408 | 🌐 C++ | 📅 2026-09-14
 * [Mage](https://github.com/magefile/mage) ⭐ 4,690 | 🐛 128 | 🌐 Go | 📅 2026-04-23 (Go)
-* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,325 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
+* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,326 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 31 | 🌐 C# | 📅 2026-09-09 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
 * [shikaan/shmux](https://github.com/shikaan/shmux) ⭐ 52 | 🐛 6 | 🌐 Go | 📅 2024-12-01 [HN](https://news.ycombinator.com/item?id=34119355)
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,786 | 🐛 464 | 🌐 Lua | 📅 2026-08-17 extension to run GNU Make targets in [Neovim](https://neovim.io)
+* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,788 | 🐛 464 | 🌐 Lua | 📅 2026-08-17 extension to run GNU Make targets in [Neovim](https://neovim.io)
 
 ## Bugs
 
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
