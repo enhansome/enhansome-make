@@ -43,7 +43,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-22T07:38:51Z",
-            "open_issues": 7,
+            "open_issues": 6,
             "owner": "EbodShojaei",
             "repo": "bake",
             "stars": 763,
@@ -106,7 +106,7 @@
             "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 35843,
+            "stars": 35858,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-17T00:35:23Z",
+            "last_commit": "2026-09-18T00:34:35Z",
             "open_issues": 191,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16156,
+            "stars": 16160,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13235,
+            "stars": 13241,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:01:52.254Z",
+    "last_updated": "2026-09-18T11:46:15.423Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
