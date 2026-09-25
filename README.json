@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1213,
+            "stars": 1214,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-22T00:10:34Z",
-            "open_issues": 172,
+            "last_commit": "2026-09-24T16:55:49Z",
+            "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 35986,
+            "stars": 36005,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-24T00:34:47Z",
-            "open_issues": 196,
+            "last_commit": "2026-09-25T05:55:03Z",
+            "open_issues": 198,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16187,
+            "stars": 16194,
             "topics": [
               "build-tool",
               "devops",
@@ -153,11 +153,11 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-20T10:19:57Z",
-            "open_issues": 407,
+            "last_commit": "2026-09-24T21:02:35Z",
+            "open_issues": 408,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13260,
+            "stars": 13265,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 128,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4693,
+            "stars": 4694,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T12:10:00.171Z",
+    "last_updated": "2026-09-25T12:10:06.307Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
