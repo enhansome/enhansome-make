@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "CC0-1.0",
             "last_commit": "2026-09-27T21:26:29Z",
-            "open_issues": 169,
+            "open_issues": 170,
             "owner": "casey",
             "repo": "just",
-            "stars": 36044,
+            "stars": 36065,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-09-28T11:36:59Z",
+            "last_commit": "2026-09-29T00:35:03Z",
             "open_issues": 192,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16196,
+            "stars": 16199,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 411,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13270,
+            "stars": 13273,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T14:25:56.046Z",
+    "last_updated": "2026-09-29T13:17:44.675Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
