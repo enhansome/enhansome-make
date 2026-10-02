@@ -43,7 +43,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-22T07:38:51Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
             "stars": 763,
@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-29T21:47:07Z",
+            "last_commit": "2026-10-02T03:32:40Z",
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36094,
+            "stars": 36101,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-01T00:41:24Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-02T00:34:04Z",
+            "open_issues": 195,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16207,
+            "stars": 16208,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13276,
+            "stars": 13282,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 126,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4696,
+            "stars": 4697,
             "topics": [
               "buildscript",
               "go",
@@ -206,7 +206,7 @@
             "open_issues": 58,
             "owner": "fsprojects",
             "repo": "FAKE",
-            "stars": 1327,
+            "stars": 1326,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T13:51:30.548Z",
+    "last_updated": "2026-10-02T13:07:47.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
