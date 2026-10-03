@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "CheckMake",
-          "description": null,
+          "description": "checkmake/checkmake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -66,7 +66,7 @@
         {
           "node_type": "item",
           "title": "Tree Sitter Support",
-          "description": null,
+          "description": "alemuller/tree-sitter-make",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -106,7 +106,7 @@
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36101,
+            "stars": 36107,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-02T00:34:04Z",
+            "last_commit": "2026-10-03T00:35:35Z",
             "open_issues": 195,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16208,
+            "stars": 16211,
             "topics": [
               "build-tool",
               "devops",
@@ -144,7 +144,7 @@
         {
           "node_type": "item",
           "title": "Ninja",
-          "description": null,
+          "description": "ninja-build/ninja",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -175,7 +175,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T03:02:58Z",
-            "open_issues": 126,
+            "open_issues": 121,
             "owner": "magefile",
             "repo": "mage",
             "stars": 4697,
@@ -244,7 +244,7 @@
         {
           "node_type": "item",
           "title": "shmux",
-          "description": null,
+          "description": "shmux/shmux",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:07:47.172Z",
+    "last_updated": "2026-10-03T04:58:49.483Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
