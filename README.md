@@ -24,9 +24,9 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 36,107 | 🐛 172 | 🌐 Rust | 📅 2026-10-02 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Just](https://github.com/casey/just) ⭐ 36,109 | 🐛 172 | 🌐 Rust | 📅 2026-10-02 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
 * [Task](https://github.com/go-task/task) ⭐ 16,211 | 🐛 195 | 🌐 Go | 📅 2026-10-03 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,282 | 🐛 413 | 🌐 C++ | 📅 2026-09-24
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,283 | 🐛 413 | 🌐 C++ | 📅 2026-09-24
 * [Mage](https://github.com/magefile/mage) ⭐ 4,697 | 🐛 121 | 🌐 Go | 📅 2026-10-01 (Go)
 * [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,326 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 31 | 🌐 C# | 📅 2026-09-09 (.NET - F#/C#)

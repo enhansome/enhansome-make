@@ -106,7 +106,7 @@
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36107,
+            "stars": 36109,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -157,7 +157,7 @@
             "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13282,
+            "stars": 13283,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:58:49.483Z",
+    "last_updated": "2026-10-03T11:59:09.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
