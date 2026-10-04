@@ -24,10 +24,10 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 36,109 | 🐛 172 | 🌐 Rust | 📅 2026-10-02 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,211 | 🐛 195 | 🌐 Go | 📅 2026-10-03 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,283 | 🐛 413 | 🌐 C++ | 📅 2026-09-24
-* [Mage](https://github.com/magefile/mage) ⭐ 4,697 | 🐛 121 | 🌐 Go | 📅 2026-10-01 (Go)
+* [Just](https://github.com/casey/just) ⭐ 36,119 | 🐛 172 | 🌐 Rust | 📅 2026-10-02 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,212 | 🐛 195 | 🌐 Go | 📅 2026-10-04 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,285 | 🐛 413 | 🌐 C++ | 📅 2026-09-24
+* [Mage](https://github.com/magefile/mage) ⭐ 4,696 | 🐛 121 | 🌐 Go | 📅 2026-10-01 (Go)
 * [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,326 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 31 | 🌐 C# | 📅 2026-09-09 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,811 | 🐛 465 | 🌐 Lua | 📅 2026-08-17 extension to run GNU Make targets in [Neovim](https://neovim.io)
+* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,812 | 🐛 465 | 🌐 Lua | 📅 2026-08-17 extension to run GNU Make targets in [Neovim](https://neovim.io)
 
 ## Bugs
 
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
