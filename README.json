@@ -106,7 +106,7 @@
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36148,
+            "stars": 36150,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -127,7 +127,7 @@
             "open_issues": 197,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16221,
+            "stars": 16222,
             "topics": [
               "build-tool",
               "devops",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:56:04.914Z",
+    "last_updated": "2026-10-06T13:35:09.440Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
