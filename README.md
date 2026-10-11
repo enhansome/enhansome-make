@@ -24,11 +24,11 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 36,185 | 🐛 173 | 🌐 Rust | 📅 2026-10-08 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,232 | 🐛 201 | 🌐 Go | 📅 2026-10-10 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,294 | 🐛 414 | 🌐 C++ | 📅 2026-10-10
+* [Just](https://github.com/casey/just) ⭐ 36,202 | 🐛 174 | 🌐 Rust | 📅 2026-10-08 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,235 | 🐛 202 | 🌐 Go | 📅 2026-10-11 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,297 | 🐛 415 | 🌐 C++ | 📅 2026-10-10
 * [Mage](https://github.com/magefile/mage) ⭐ 4,694 | 🐛 121 | 🌐 Go | 📅 2026-10-01 (Go)
-* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,326 | 🐛 58 | 🌐 F# | 📅 2026-07-13 (F#)
+* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,326 | 🐛 59 | 🌐 F# | 📅 2026-10-10 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 31 | 🌐 C# | 📅 2026-09-09 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
 * [shikaan/shmux](https://github.com/shikaan/shmux) ⭐ 52 | 🐛 6 | 🌐 Go | 📅 2024-12-01 [HN](https://news.ycombinator.com/item?id=34119355)
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
