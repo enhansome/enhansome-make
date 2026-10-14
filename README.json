@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 764,
+            "stars": 765,
             "topics": [
               "fmt",
               "formatter",
@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-08T21:12:48Z",
-            "open_issues": 173,
+            "last_commit": "2026-10-14T01:40:02Z",
+            "open_issues": 171,
             "owner": "casey",
             "repo": "just",
-            "stars": 36246,
+            "stars": 36266,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-13T13:18:41Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-14T00:34:34Z",
+            "open_issues": 198,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16244,
+            "stars": 16249,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 413,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13300,
+            "stars": 13302,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -223,8 +223,8 @@
             "id": 469034236,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-09-09T12:12:30Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-14T12:12:25Z",
+            "open_issues": 32,
             "owner": "xt0rted",
             "repo": "dotnet-run-script",
             "stars": 134,
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T14:32:42.822Z",
+    "last_updated": "2026-10-14T12:19:43.643Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
