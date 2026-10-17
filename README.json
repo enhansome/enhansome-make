@@ -19,7 +19,7 @@
             "open_issues": 47,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1219,
+            "stars": 1220,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-15T06:41:33Z",
-            "open_issues": 174,
+            "last_commit": "2026-10-16T23:14:29Z",
+            "open_issues": 173,
             "owner": "casey",
             "repo": "just",
-            "stars": 36304,
+            "stars": 36317,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-16T00:29:40Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-17T00:34:35Z",
+            "open_issues": 201,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16257,
+            "stars": 16258,
             "topics": [
               "build-tool",
               "devops",
@@ -154,10 +154,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-15T06:59:35Z",
-            "open_issues": 415,
+            "open_issues": 416,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13309,
+            "stars": 13311,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 121,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4693,
+            "stars": 4692,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T11:52:32.926Z",
+    "last_updated": "2026-10-17T11:08:38.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
