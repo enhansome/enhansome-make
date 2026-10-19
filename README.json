@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-17T23:35:27Z",
+            "last_commit": "2026-10-19T00:17:17Z",
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36331,
+            "stars": 36343,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-18T00:36:58Z",
-            "open_issues": 200,
+            "last_commit": "2026-10-19T01:03:14Z",
+            "open_issues": 196,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16261,
+            "stars": 16266,
             "topics": [
               "build-tool",
               "devops",
@@ -153,11 +153,11 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-18T09:21:43Z",
-            "open_issues": 413,
+            "last_commit": "2026-10-18T20:25:20Z",
+            "open_issues": 412,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13312,
+            "stars": 13313,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -175,7 +175,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T03:02:58Z",
-            "open_issues": 121,
+            "open_issues": 122,
             "owner": "magefile",
             "repo": "mage",
             "stars": 4692,
@@ -202,8 +202,8 @@
             "id": 507569,
             "language": "F#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T14:05:12Z",
-            "open_issues": 59,
+            "last_commit": "2026-10-18T21:36:37Z",
+            "open_issues": 58,
             "owner": "fsprojects",
             "repo": "FAKE",
             "stars": 1325,
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T11:39:58.093Z",
+    "last_updated": "2026-10-19T13:54:28.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
