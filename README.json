@@ -106,7 +106,7 @@
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36380,
+            "stars": 36391,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-10-21T11:41:54Z",
-            "open_issues": 197,
+            "last_commit": "2026-10-22T06:27:38Z",
+            "open_issues": 198,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16274,
+            "stars": 16275,
             "topics": [
               "build-tool",
               "devops",
@@ -154,10 +154,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-18T20:25:20Z",
-            "open_issues": 415,
+            "open_issues": 417,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13314,
+            "stars": 13315,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T12:20:12.758Z",
+    "last_updated": "2026-10-22T12:21:41.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
