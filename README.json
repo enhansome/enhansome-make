@@ -46,7 +46,7 @@
             "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 765,
+            "stars": 766,
             "topics": [
               "fmt",
               "formatter",
@@ -103,10 +103,10 @@
             "language": "Rust",
             "license": "CC0-1.0",
             "last_commit": "2026-11-02T05:24:09Z",
-            "open_issues": 170,
+            "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36539,
+            "stars": 36558,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -153,11 +153,11 @@
             "id": 1335132,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T21:23:47Z",
-            "open_issues": 429,
+            "last_commit": "2026-11-03T19:32:55Z",
+            "open_issues": 424,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13335,
+            "stars": 13334,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 124,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4698,
+            "stars": 4699,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T14:37:38.315Z",
+    "last_updated": "2026-11-04T14:51:43.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
