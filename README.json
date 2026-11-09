@@ -42,11 +42,11 @@
             "id": 965576317,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-28T16:57:44Z",
+            "last_commit": "2026-11-09T07:37:03Z",
             "open_issues": 7,
             "owner": "EbodShojaei",
             "repo": "bake",
-            "stars": 766,
+            "stars": 765,
             "topics": [
               "fmt",
               "formatter",
@@ -106,7 +106,7 @@
             "open_issues": 173,
             "owner": "casey",
             "repo": "just",
-            "stars": 36606,
+            "stars": 36629,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-08T12:47:18Z",
-            "open_issues": 192,
+            "last_commit": "2026-11-09T14:19:53Z",
+            "open_issues": 191,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16327,
+            "stars": 16328,
             "topics": [
               "build-tool",
               "devops",
@@ -154,10 +154,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:32:55Z",
-            "open_issues": 427,
+            "open_issues": 429,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13346,
+            "stars": 13347,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 124,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4700,
+            "stars": 4702,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T13:49:29.583Z",
+    "last_updated": "2026-11-09T16:49:30.404Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
