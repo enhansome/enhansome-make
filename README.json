@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-02T05:24:09Z",
-            "open_issues": 173,
+            "last_commit": "2026-11-11T01:39:25Z",
+            "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36641,
+            "stars": 36670,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -124,10 +124,10 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-11-09T14:19:53Z",
-            "open_issues": 191,
+            "open_issues": 193,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16331,
+            "stars": 16340,
             "topics": [
               "build-tool",
               "devops",
@@ -154,10 +154,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-03T19:32:55Z",
-            "open_issues": 430,
+            "open_issues": 431,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13349,
+            "stars": 13353,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -223,8 +223,8 @@
             "id": 469034236,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-10-26T13:35:18Z",
-            "open_issues": 33,
+            "last_commit": "2026-11-11T12:07:51Z",
+            "open_issues": 34,
             "owner": "xt0rted",
             "repo": "dotnet-run-script",
             "stars": 134,
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T15:12:13.140Z",
+    "last_updated": "2026-11-11T14:41:20.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
