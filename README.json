@@ -19,7 +19,7 @@
             "open_issues": 48,
             "owner": "checkmake",
             "repo": "checkmake",
-            "stars": 1222,
+            "stars": 1221,
             "topics": [
               "hacktoberfest",
               "lint",
@@ -102,11 +102,11 @@
             "id": 61349723,
             "language": "Rust",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-11T01:39:25Z",
+            "last_commit": "2026-11-13T00:03:52Z",
             "open_issues": 172,
             "owner": "casey",
             "repo": "just",
-            "stars": 36687,
+            "stars": 36711,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -123,11 +123,11 @@
             "id": 83252983,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-11T21:55:38Z",
-            "open_issues": 193,
+            "last_commit": "2026-11-13T12:41:17Z",
+            "open_issues": 195,
             "owner": "go-task",
             "repo": "task",
-            "stars": 16344,
+            "stars": 16348,
             "topics": [
               "build-tool",
               "devops",
@@ -157,7 +157,7 @@
             "open_issues": 431,
             "owner": "ninja-build",
             "repo": "ninja",
-            "stars": 13352,
+            "stars": 13354,
             "topics": []
           },
           "first_seen": "2026-08-28T18:59:23.699Z"
@@ -178,7 +178,7 @@
             "open_issues": 124,
             "owner": "magefile",
             "repo": "mage",
-            "stars": 4704,
+            "stars": 4705,
             "topics": [
               "buildscript",
               "go",
@@ -326,7 +326,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:33:43.537Z",
+    "last_updated": "2026-11-13T14:53:05.782Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list about Make resources 🛠",
