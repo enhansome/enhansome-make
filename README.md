@@ -24,12 +24,12 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 36,711 | 🐛 172 | 🌐 Rust | 📅 2026-11-13 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,348 | 🐛 195 | 🌐 Go | 📅 2026-11-13 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,354 | 🐛 431 | 🌐 C++ | 📅 2026-11-03
+* [Just](https://github.com/casey/just) ⭐ 36,700 | 🐛 172 | 🌐 Rust | 📅 2026-11-14 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,349 | 🐛 194 | 🌐 Go | 📅 2026-11-14 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,355 | 🐛 434 | 🌐 C++ | 📅 2026-11-03
 * [Mage](https://github.com/magefile/mage) ⭐ 4,705 | 🐛 124 | 🌐 Go | 📅 2026-10-01 (Go)
 * [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,327 | 🐛 60 | 🌐 F# | 📅 2026-11-07 (F#)
-* [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 134 | 🐛 34 | 🌐 C# | 📅 2026-11-11 (.NET - F#/C#)
+* [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 135 | 🐛 34 | 🌐 C# | 📅 2026-11-11 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
 * [shikaan/shmux](https://github.com/shikaan/shmux) ⭐ 51 | 🐛 6 | 🌐 Go | 📅 2024-12-01 [HN](https://news.ycombinator.com/item?id=34119355)
 * [FsMake](https://github.com/seanamos/FsMake) ⭐ 23 | 🐛 0 | 🌐 F# | 📅 2022-07-06 (F#)
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,868 | 🐛 473 | 🌐 Lua | 📅 2026-11-13 extension to run GNU Make targets in [Neovim](https://neovim.io)
+* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,857 | 🐛 473 | 🌐 Lua | 📅 2026-11-13 extension to run GNU Make targets in [Neovim](https://neovim.io)
 
 ## Bugs
 
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
