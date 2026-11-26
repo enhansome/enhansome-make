@@ -24,11 +24,11 @@
 
 ## Alternatives
 
-* [Just](https://github.com/casey/just) ⭐ 36,840 | 🐛 176 | 🌐 Rust | 📅 2026-11-15 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
-* [Task](https://github.com/go-task/task) ⭐ 16,392 | 🐛 195 | 🌐 Go | 📅 2026-11-25 (Go)
-* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,381 | 🐛 443 | 🌐 C++ | 📅 2026-11-20
-* [Mage](https://github.com/magefile/mage) ⭐ 4,710 | 🐛 125 | 🌐 Go | 📅 2026-10-01 (Go)
-* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,327 | 🐛 61 | 🌐 F# | 📅 2026-11-07 (F#)
+* [Just](https://github.com/casey/just) ⭐ 36,860 | 🐛 176 | 🌐 Rust | 📅 2026-11-15 (Rust) [HN](https://news.ycombinator.com/item?id=34315779)
+* [Task](https://github.com/go-task/task) ⭐ 16,395 | 🐛 197 | 🌐 Go | 📅 2026-11-26 (Go)
+* [Ninja](https://github.com/ninja-build/ninja) ⭐ 13,384 | 🐛 443 | 🌐 C++ | 📅 2026-11-20
+* [Mage](https://github.com/magefile/mage) ⭐ 4,710 | 🐛 126 | 🌐 Go | 📅 2026-10-01 (Go)
+* [Fake](https://github.com/fsprojects/FAKE) ⭐ 1,328 | 🐛 61 | 🌐 F# | 📅 2026-11-07 (F#)
 * [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) ⭐ 135 | 🐛 34 | 🌐 C# | 📅 2026-11-11 (.NET - F#/C#)
 * [shmux](https://github.com/shmux/shmux) ⭐ 58 | 🐛 1 | 🌐 C | 📅 2026-02-20
 * [shikaan/shmux](https://github.com/shikaan/shmux) ⭐ 51 | 🐛 6 | 🌐 Go | 📅 2024-12-01 [HN](https://news.ycombinator.com/item?id=34119355)
@@ -44,7 +44,7 @@
 
 ### Plugins
 
-* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,892 | 🐛 467 | 🌐 Lua | 📅 2026-11-20 extension to run GNU Make targets in [Neovim](https://neovim.io)
+* [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ⚠️ Archived - Simple [telescope](https://github.com/nvim-telescope/telescope.nvim) ⭐ 19,904 | 🐛 467 | 🌐 Lua | 📅 2026-11-20 extension to run GNU Make targets in [Neovim](https://neovim.io)
 
 ## Bugs
 
@@ -76,4 +76,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
